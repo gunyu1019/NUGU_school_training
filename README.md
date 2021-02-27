@@ -9,3 +9,5 @@ Intent를 정의하기 위해서는 기능 수행을 위한 사용자의 예상 
 
 #### 학습 시간
 NUGU을 통하여 학습시간은 12분이지만, 실제로는 1시간 넘게 걸렸습니다.
+![image](https://user-images.githubusercontent.com/16767890/109393344-6d289a00-7964-11eb-81af-8fafc6cc12b2.png)
+
